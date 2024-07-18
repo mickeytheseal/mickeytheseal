@@ -1,6 +1,5 @@
 # Hi there, I'm Michael 👋
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mickeytheseal&show_icons=true&count_private=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mickeytheseal&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mickeytheseal&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000)
 
 
 ---
