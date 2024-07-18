@@ -58,7 +58,7 @@
 
 ## 📫 Contact Me
 
-- 📧 **Email**: mickeytheseal@gmail.com(mailto:mickeytheseal@gmail.com)
+- 📧 **Email**: mickeytheseal@gmail.com
 - 🌐 **Website**: work in progress
 
 ---
