@@ -1,5 +1,9 @@
 # Hi there, I'm Michael 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mickeytheseal&show_icons=true&count_private=true&hide_title=true)
+
+---
+
 ## 🎓 Education
 
 **Bachelor degree in Information Systems and Technologies**  
@@ -23,6 +27,7 @@
 
 - Python
 - Javа
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mickeytheseal&layout=compact)
 
 ### Technologies & Frameworks
 
@@ -56,7 +61,7 @@
 
 ## 📫 Contact Me
 
-- 📧 **Email**: mickeytheseal@gmail.com
+- 📧 **Email**: mickeytheseal@gmail.com(mailto:mickeytheseal@gmail.com)
 - 🌐 **Website**: work in progress
 
 ---
