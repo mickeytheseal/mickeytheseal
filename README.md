@@ -1,8 +1,4 @@
 # Hi there, I'm Michael 👋
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mickeytheseal&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000)
-
-
----
 
 ## 🎓 Education
 
@@ -27,6 +23,8 @@
 
 - Python
 - Javа
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mickeytheseal&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000)
+
 
 ### Technologies & Frameworks
 
