@@ -2,7 +2,7 @@
 
 ## 🎓 Education
 
-- **Bachelor degree in Information Systems and Technologies**  
+**Bachelor degree in Information Systems and Technologies**  
   *Russian Technological University - MIREA, 2018-2022* 
 
 ---
@@ -10,10 +10,10 @@
 ## 💼 Work Experience
 
 ### SRE Engineer
-**K2 Cloud**, Moscow, April 2024 - Present
+![Project Logo](./logo-k2.svg) **K2 Cloud**, Moscow, April 2024 - Present
 
 ### Hardware Engineer
-**CROC inc.**, Moscow, August 2022 - May 2024
+![Project Logo](./logo-croc.svg) **CROC inc.**, Moscow, August 2022 - May 2024
 
 ---
 
