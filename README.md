@@ -13,7 +13,7 @@
 <img src="./logo-k2.svg" alt="K2 Logo" width="100" height="10">  **K2 Cloud**, Moscow, April 2024 - Present
 
 ### Hardware Engineer
-<img src="./logo-croc.svg" alt="CROC Logo" width="100" height="10"> **CROC inc.**, Moscow, August 2022 - May 2024
+<img src="./logo-croc.svg" alt="CROC Logo" width="100" height="15"> **CROC inc.**, Moscow, August 2022 - May 2024
 
 ---
 
