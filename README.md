@@ -32,16 +32,16 @@
 - Kubernetes
 - Prometheus, Grafana
 - Hachicorp Vault, Consul
-- Terraform
-- Ansible
+- RabbitMQ, Kafka
+- Terraform, Ansible
 - AWS
-- RHEL, AlmaLinux
-- SQL (SQL Server, MySQL, PostgreSQL)
+- RHEL, AlmaLinux, AstraLinux
+- MS SQL Server, MySQL, PostgreSQL, ProxySQL
 - Spring Framework
 
 ### Tools
 
-- Git & GitHub & GitLab
+- Git, Gitea, GitHub, GitLab
 - VS Code
 - Lens
 - JetBrains IDEA, DataGrip, Pycharm
