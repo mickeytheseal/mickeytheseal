@@ -1,19 +1,16 @@
 # Hi there, I'm Michael 👋
-
-## 🎓 Education
-
-**Bachelor degree in Information Systems and Technologies**  
-  *Russian Technological University - MIREA, 2018-2022* 
-
 ---
 
 ## 💼 Work Experience
 
+### Sr. MLOps Engineer
+<img src="./img/mtech.svg" alt="MagnitTech Logo" width="100" height="11">  **Magnit Tech**, Moscow, November 2025 - Present
+
 ### SRE Engineer
-<img src="./logo-k2.svg" alt="K2 Logo" width="100" height="11">  **K2 Cloud**, Moscow, April 2024 - Present
+<img src="./img/logo-k2.svg" alt="K2 Logo" width="100" height="11">  **K2 Cloud**, Moscow, April 2024 - November 2025
 
 ### Hardware Engineer
-<img src="./logo-croc.svg" alt="CROC Logo" width="100" height="13"> **CROC inc.**, Moscow, August 2022 - May 2024
+<img src="./img/logo-croc.svg" alt="CROC Logo" width="100" height="13"> **CROC inc.**, Moscow, August 2022 - April 2024
 
 ---
 
@@ -53,6 +50,13 @@
 
 - RH134 Red Hat System Administration II - HLD-0471
 - RH294 Red Hat Enterprise Linux Automation with Ansible - HLD-0491
+
+---
+
+## 🎓 Education
+
+**Bachelor degree in Information Systems and Technologies**  
+  *Russian Technological University - MIREA, 2018-2022* 
 
 ---
 
